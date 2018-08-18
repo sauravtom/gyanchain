@@ -104,8 +104,14 @@ App = {
       App.contracts.GyanChain.deployed().then(function(instance) {
         gyanChainInstance = instance;
 
-        gyanChainInstance.addCourse("category",300,"name",true,"video_url");
+        if (!localStorage.getItem("testData")){
+          console.log('adding test data');
+          for(i=0;i<10;i++){
+            gyanChainInstance.addCourse("category"+i,300,"name"+i,true,"video_url"+i);
+          }
+        };
 
+        localStorage.setItem("testData", true);
         // Execute adopt as a transaction by sending account
         return gyanChainInstance.buyCourse(courseId, {from: account, value:500});
       }).then(function(result) {
