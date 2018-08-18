@@ -1,43 +1,43 @@
 [
   {
     "id": 0,
-    "name": "Python Fundamentals",
+    "name": "Python Programming Fundamentals",
     "picture": "https://udemy-images.udemy.com/course/750x422/567828_67d0.jpg",
-    "age": "$30",
+    "age": "$100",
     "breed": "programming,python",
     "location": "Stanford University"
   },
   {
     "id": 1,
-    "name": "Python Fundamentals",
-    "picture": "https://udemy-images.udemy.com/course/750x422/567828_67d0.jpg",
-    "age": "$30",
-    "breed": "programming,python",
-    "location": "Stanford University"
+    "name": "Principles of Investing in ICOs",
+    "picture": "https://ethereumworldnews.com/wp-content/uploads/2018/06/ICO-Trends-for-2018-850-x-478.png",
+    "age": "$300",
+    "breed": "cryptocurrency,ICO,bitcoin",
+    "location": "CoinGecko"
   },
   {
     "id": 2,
-    "name": "Python Fundamentals",
-    "picture": "https://udemy-images.udemy.com/course/750x422/567828_67d0.jpg",
-    "age": "$30",
-    "breed": "programming,python",
-    "location": "Stanford University"
+    "name": "Personal Finance for Millenials",
+    "picture": "https://financialwellness.org/wp-content/uploads/2017/12/Personal-Finance-Tips-Piggy-Bank-Coins-Personal-Finances-in-2018-SS-Feature.jpg",
+    "age": "$50",
+    "breed": "finance",
+    "location": "independent"
   },
   {
     "id": 3,
-    "name": "Python Fundamentals",
-    "picture": "https://udemy-images.udemy.com/course/750x422/567828_67d0.jpg",
-    "age": "$30",
-    "breed": "programming,python",
+    "name": "Building Decentralized applications on Ethereum",
+    "picture": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/08/eth_720.png",
+    "age": "$600",
+    "breed": "programming,ethereum,dapps",
     "location": "Stanford University"
   },
   {
     "id": 4,
-    "name": "Python Fundamentals",
-    "picture": "https://udemy-images.udemy.com/course/750x422/567828_67d0.jpg",
-    "age": "$30",
+    "name": "Bitcoin and Cryptocurrency Technologies",
+    "picture": "https://i2.cdn.turner.com/money/dam/assets/171130162456-quest-bitcoin-780x439.jpg",
+    "age": "$100",
     "breed": "programming,python",
-    "location": "Stanford University"
+    "location": "Princeton University"
   },
   {
     "id": 5,
@@ -49,22 +49,14 @@
   },
   {
     "id": 6,
-    "name": "Python Fundamentals",
-    "picture": "https://udemy-images.udemy.com/course/750x422/567828_67d0.jpg",
-    "age": "$30",
-    "breed": "programming,python",
-    "location": "Stanford University"
+    "name": "Minimalism",
+    "picture": "http://mmminimal.com/wp-content/uploads/2018/01/minimalism-art-clock.jpg",
+    "age": "FREE",
+    "breed": "Minimalism",
+    "location": "Tokyo National University"
   },
   {
     "id": 7,
-    "name": "Python Fundamentals",
-    "picture": "https://udemy-images.udemy.com/course/750x422/567828_67d0.jpg",
-    "age": "$30",
-    "breed": "programming,python",
-    "location": "Stanford University"
-  },
-  {
-    "id": 8,
     "name": "Python Fundamentals",
     "picture": "https://udemy-images.udemy.com/course/750x422/567828_67d0.jpg",
     "age": "$30",
