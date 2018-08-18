@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>GyanChain</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/app.css" rel="stylesheet">
+    <link href="css/profile.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div id="mySidenav" class="sidenav">
+      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+      <a href="index.html">Main</a>
+      <a href="profile.html">Profile</a>
+      <a href="library.html">Library</a>
+      <a href="#">Create Course</a>
+    </div>
+
+    <span id="hamburger" style="font-size:50px;cursor:pointer" onclick="openNav()">&#9776;</span>
+
+    <div id="overlay" onclick="toggleOverlay()"></div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 col-sm-8 col-sm-push-2">
+          <h1 class="text-center">Create New Course</h1>
+          <hr/>
+          <br/>
+        </div>
+      </div>
+
+      <div>
+        <form>
+          <div class="form-group">
+            <label for="name">Course Name</label>
+            <input type="text" class="form-control" id="name" placeholder="Course Name, Ex: Basic Solidity">
+          </div>
+          <div class="form-group">
+            <label for="price">Price</label>
+            <input type="text" class="form-control" id="price" placeholder="Course Price, Ex: 1 (ETH)">
+          </div>
+          <div class="form-group">
+            <label for="category">Category</label>
+            <input type="text" class="form-control" id="category" placeholder="Course Category, Ex: Ethereum">
+          </div>
+          <div class="form-group">
+            <label for="category">Description</label>
+            <textarea class="form-control" id="description" rows="3" placeholder="Course Description, Ex: Affliation course with Stanford University"></textarea>
+          </div>
+          <div class="form-group">
+            <label for="exampleInputFile">Course Content</label>
+            <input type="file" id="exampleInputFile" multiple>
+          </div>
+          <button type="button" class="btn btn-default" onclick="uploadContent()">Submit</button> <br /><br />
+          <i id="spinner" class="fa fa-spinner fa-spin" style="visibility:hidden;font-size:24px"></i>
+        </form>
+      </div>
+
+    </div>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/web3.min.js"></script>
+    <script src="js/truffle-contract.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/ux.js"></script>
+    <!-- Include IPFS -->
+    <script src="js/Buffer.js"></script>
+    <script src="https://unpkg.com/ipfs-api/dist/index.js"></script>
+    <script src="js/ipfs.js"></script>
+  </body>
+</html>

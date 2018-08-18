@@ -1,0 +1,74 @@
+[
+  {
+    "id": 0,
+    "name": "Python Fundamentals",
+    "picture": "https://udemy-images.udemy.com/course/750x422/567828_67d0.jpg",
+    "age": "$30",
+    "breed": "programming,python",
+    "location": "Stanford University"
+  },
+  {
+    "id": 1,
+    "name": "Python Fundamentals",
+    "picture": "https://udemy-images.udemy.com/course/750x422/567828_67d0.jpg",
+    "age": "$30",
+    "breed": "programming,python",
+    "location": "Stanford University"
+  },
+  {
+    "id": 2,
+    "name": "Python Fundamentals",
+    "picture": "https://udemy-images.udemy.com/course/750x422/567828_67d0.jpg",
+    "age": "$30",
+    "breed": "programming,python",
+    "location": "Stanford University"
+  },
+  {
+    "id": 3,
+    "name": "Python Fundamentals",
+    "picture": "https://udemy-images.udemy.com/course/750x422/567828_67d0.jpg",
+    "age": "$30",
+    "breed": "programming,python",
+    "location": "Stanford University"
+  },
+  {
+    "id": 4,
+    "name": "Python Fundamentals",
+    "picture": "https://udemy-images.udemy.com/course/750x422/567828_67d0.jpg",
+    "age": "$30",
+    "breed": "programming,python",
+    "location": "Stanford University"
+  },
+  {
+    "id": 5,
+    "name": "Python Fundamentals",
+    "picture": "https://udemy-images.udemy.com/course/750x422/567828_67d0.jpg",
+    "age": "$30",
+    "breed": "programming,python",
+    "location": "Stanford University"
+  },
+  {
+    "id": 6,
+    "name": "Python Fundamentals",
+    "picture": "https://udemy-images.udemy.com/course/750x422/567828_67d0.jpg",
+    "age": "$30",
+    "breed": "programming,python",
+    "location": "Stanford University"
+  },
+  {
+    "id": 7,
+    "name": "Python Fundamentals",
+    "picture": "https://udemy-images.udemy.com/course/750x422/567828_67d0.jpg",
+    "age": "$30",
+    "breed": "programming,python",
+    "location": "Stanford University"
+  },
+  {
+    "id": 8,
+    "name": "Python Fundamentals",
+    "picture": "https://udemy-images.udemy.com/course/750x422/567828_67d0.jpg",
+    "age": "$30",
+    "breed": "programming,python",
+    "location": "Stanford University"
+  }
+]
