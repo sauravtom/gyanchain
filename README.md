@@ -2,6 +2,9 @@
 
 Peer-to-Peer, video based learning platform built on Ethereum Blockchain. [GyanChain.sol](https://github.com/sauravtom/gyanchain/blob/master/contracts/GyanChain.sol)
 
+### Video demo on youtube
+[![VIDEO](https://img.youtube.com/vi/IJKp9xt1mDE/0.jpg)](https://www.youtube.com/watch?v=IJKp9xt1mDE)
+
 ## Deployment instructions
 ```
 truffle init
