@@ -32,5 +32,6 @@ Upload a course. Videos are encrypted and then stored on IPFS, whereas the video
 
 ## Contributors
 https://github.com/GotHima
+
 https://github.com/alloy628
 
