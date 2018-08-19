@@ -1,6 +1,6 @@
 # GyanChain [WIP]
 
-Peer-to-Peer, video based learning platform built on Ethereum Blockchain. 
+Peer-to-Peer, video based learning platform built on Ethereum Blockchain. [GyanChain.sol](https://github.com/sauravtom/gyanchain/blob/master/contracts/GyanChain.sol)
 
 ## Deployment instructions
 ```
@@ -13,17 +13,16 @@ npm run dev
 ## Features
 
 User login via Metamask
-
 ![desc1](https://raw.githubusercontent.com/sauravtom/dappathon/master/temp%20contracts/0.png "Desc 1")
 ***
-View and Purchase Courses
 
+View and Purchase Courses
 ![desc2](https://raw.githubusercontent.com/sauravtom/dappathon/master/temp%20contracts/1.png "Desc 2")
 ***
-Purchased courses gets added to your Library
 
+Purchased courses gets added to your Library
 ![desc3](https://raw.githubusercontent.com/sauravtom/dappathon/master/temp%20contracts/2.png "Desc 3")
 ***
-Upload a course 
 
+Upload a course. Videos are encrypted and then stored on IPFS, whereas the video course metadata is stored on the blockchain
 ![desc4](https://raw.githubusercontent.com/sauravtom/dappathon/master/temp%20contracts/3.png "Desc 4")
