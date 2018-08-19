@@ -29,3 +29,8 @@ Purchased courses gets added to your Library
 
 Upload a course. Videos are encrypted and then stored on IPFS, whereas the video course metadata is stored on the blockchain
 ![desc4](https://raw.githubusercontent.com/sauravtom/dappathon/master/temp%20contracts/3.png "Desc 4")
+
+## Contributors
+https://github.com/GotHima
+https://github.com/alloy628
+
