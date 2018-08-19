@@ -31,6 +31,7 @@ App = {
       //App.web3Provider = new Web3.providers.HttpProvider('http://localhost:7545');
       //alert('Please connect metamask to continue');
       $('#loginModal').modal('toggle');
+      setTimeout(10000);
     }
     web3 = new Web3(App.web3Provider);
 
