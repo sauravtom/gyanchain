@@ -1,6 +1,6 @@
 # GyanChain [WIP]
 
-Peer-to-Peer, video based learning platform built on Ethereum Blockchain. [GyanChain.sol](https://github.com/sauravtom/gyanchain/blob/master/contracts/GyanChain.sol)
+Peer-to-Peer, video based learning platform built on Ethereum Blockchain, developed during [dappathon2018](https://www.coingecko.com/en/events/dappathon-tour-kl)
 
 ### Video demo on youtube
 [![VIDEO](https://img.youtube.com/vi/IJKp9xt1mDE/0.jpg)](https://www.youtube.com/watch?v=IJKp9xt1mDE)
