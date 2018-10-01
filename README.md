@@ -7,7 +7,7 @@ Peer-to-Peer, video based learning platform built on Ethereum Blockchain, develo
 
 ## Deployment instructions
 ```
-truffle init
+git clone https://github.com/sauravtom/gyanchain.git
 truffle compile
 truffle migrate
 npm run dev
